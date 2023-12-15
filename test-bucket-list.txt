@@ -1,1 +1,2 @@
-# Bucket-name-goes-here:AWS-account-number-goes-here
+test-replication-alerts-01:603842843261
+test-replication-alerts-02:603842843261
